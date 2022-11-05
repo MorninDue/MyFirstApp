@@ -1,0 +1,13 @@
+.parallax {
+    /* The image used */
+    background-image: url("GettyImages-1139903289-1200x800.webp");
+  
+    max-height: 1020px;
+    min-height: 1000px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
